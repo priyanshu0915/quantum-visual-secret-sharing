@@ -1,0 +1,24 @@
+# ============================================================
+# Quantum Visual Secret Sharing (QVSS)
+# Python dependencies — install with:
+#   pip install -r requirements.txt
+# ============================================================
+
+# --- Quantum simulation ---
+qiskit>=1.0.0
+mqt.ddsim>=1.22.0
+
+# --- Numerical / image processing ---
+numpy>=1.26.0
+opencv-python>=4.9.0
+Pillow>=10.2.0
+scipy>=1.12.0
+
+# --- Data / plotting ---
+matplotlib>=3.8.0
+pandas>=2.1.0
+
+# --- Jupyter ---
+jupyter>=1.0.0
+ipykernel>=6.29.0
+nbconvert>=7.0.0

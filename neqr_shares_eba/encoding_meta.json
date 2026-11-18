@@ -1,0 +1,43 @@
+{
+  "n_secrets": 2,
+  "image_size": "32x32",
+  "bits": 8,
+  "shots": 8192,
+  "total_qubits": 83,
+  "depth": 61251,
+  "gates": 225601,
+  "build_time": 1.2727341651916504,
+  "exec_time": 1427.9396567344666,
+  "qpa_ok": true,
+  "qpa_stats": {
+    "S1": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S2": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S3": {
+      "correct": 8192,
+      "wrong": 0
+    }
+  },
+  "eba_ok": true,
+  "eba_stats": {
+    "S1": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S2": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S3": {
+      "correct": 8192,
+      "wrong": 0
+    }
+  },
+  "share_logic": "Code 1 nibble XOR",
+  "auth_method": "QPA (Quantum Parity Authentication) + EBA (Entanglement-Based Authentication)"
+}

@@ -1,0 +1,37 @@
+{
+  "mode": "patch",
+  "img_size": "128x128",
+  "patch_size": "16x16",
+  "n_patches": 64,
+  "shots": 8192,
+  "total_time": 2239.743399143219,
+  "qpa_stats_agg": {
+    "S1": {
+      "correct": 524288,
+      "wrong": 0
+    },
+    "S2": {
+      "correct": 524288,
+      "wrong": 0
+    },
+    "S3": {
+      "correct": 524288,
+      "wrong": 0
+    }
+  },
+  "eba_stats_agg": {
+    "S1": {
+      "correct": 524288,
+      "wrong": 0
+    },
+    "S2": {
+      "correct": 524288,
+      "wrong": 0
+    },
+    "S3": {
+      "correct": 524288,
+      "wrong": 0
+    }
+  },
+  "note": "Patch mode: intra-patch entanglement only. Visual demo use only."
+}

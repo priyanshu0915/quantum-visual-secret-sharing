@@ -1,0 +1,42 @@
+{
+  "label": "set_A",
+  "mode": "full",
+  "rows": 32,
+  "cols": 32,
+  "shots": 8192,
+  "total_qubits": 83,
+  "depth": 62906,
+  "gates": 231570,
+  "build_time": 1.746603012084961,
+  "sim_time": 1107.1245744228363,
+  "qpa_ok": true,
+  "eba_ok": true,
+  "qpa_stats": {
+    "S1": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S2": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S3": {
+      "correct": 8192,
+      "wrong": 0
+    }
+  },
+  "eba_stats": {
+    "S1": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S2": {
+      "correct": 8192,
+      "wrong": 0
+    },
+    "S3": {
+      "correct": 8192,
+      "wrong": 0
+    }
+  }
+}
