@@ -265,14 +265,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-## Citation
 
-If you use this code in your research, please cite:
-
-```
-@misc{qvss2026,
-  title   = {Quantum Visual Secret Sharing with QPA and EBA},
-  year    = {2026},
-  url     = {https://github.com/<your-username>/quantum-visual-secret-sharing}
-}
-```
